@@ -25,4 +25,5 @@ Goto Tools -> Board -> Seeed XIAO nRF52840
 
 ## Upload BLE Firmware
 
-- To test, upload the LED test sketch_wifi_ex.ino to test the chip. 
+- To test, upload the LED test sketch_wifi_ex.ino to test the chip.
+- Once it is confirmed working, move on to the sketch_test_file_transfer.ino to test data transfer over bluetooth.
