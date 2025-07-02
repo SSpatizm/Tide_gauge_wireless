@@ -21,7 +21,7 @@ Firmware for wireless RF integration of the Water Sense Project.
 Goto File -> Preferences -> Add this URL to the board managers URL: https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json 
 Goto Tools -> Board -> Seeed XIAO nRF52840
 
-## *THE REST WILL REQUIRE A CONNECTED XIAO BOARD WITH USB C* ##
+### *NOTE: THE REST WILL REQUIRE A CONNECTED XIAO BOARD WITH USB C* ###
 
 ## Upload BLE Firmware
 
